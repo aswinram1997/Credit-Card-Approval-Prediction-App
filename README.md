@@ -4,7 +4,7 @@
 [My Streamlit app can be found here!](<https://aswinram1997-credit-card-approval-prediction-stre-appapp-qwf2nf.streamlit.app>) 
 
 
-![avery-evans-RJQE64NmC_o-unsplash](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/assets/102771069/6ebf5b42-3613-4e8e-bd1d-1fdcd3e15e54)
+![Credit Card Approval](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/assets/102771069/78275a10-6d9b-4bd0-98e8-7b1b1a7afd77)
   
 ## Project Overview:
 This project aimed to build a machine learning app to predict whether a credit card application will be approved or rejected based on personal information provided by the applicant and information from credit records. The Kaggle dataset (https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) used in this project was pre-processed using various techniques such as binary encoding, one hot encoding, and feature scaling to ensure optimal performance of the models. Two classifiers, logistic regression, and random forest were evaluated based on precision, recall, and F1 score. A streamlit app is developed for the winning model and deployed using Streamlit sharing. 

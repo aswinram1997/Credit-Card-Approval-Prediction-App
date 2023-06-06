@@ -1,7 +1,7 @@
 # Credit-Card-Approval-Prediction-Streamlit-App
 
 
-[My Streamlit app can be found here!](<https://aswinram1997-credit-card-approval-prediction-stre-appapp-qwf2nf.streamlit.app>) 
+[My Streamlit app can be found here!](<[https://aswinram1997-credit-card-approval-prediction-stre-appapp-qwf2nf.streamlit.app](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)>) 
 
 
 ![Credit Card Approval](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/assets/102771069/78275a10-6d9b-4bd0-98e8-7b1b1a7afd77)

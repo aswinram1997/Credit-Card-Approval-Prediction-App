@@ -7,7 +7,7 @@ from scipy.sparse import hstack
 # --------- COLLECT JOBLIB FILES --------- 
 
 # Load preprocessing and model files
-preprocessing_steps = joblib.load("C:/Users/aswinram/Aswin's Data Science Portfolio/Credit Card Approval Prediction/models/preprocessing_steps.joblib")
+preprocessing_steps = joblib.load("C:\Users\aswinram\Aswin's Data Science Portfolio\Credit Card Approval Prediction\models\preprocessing_steps.joblib")
 
 model = joblib.load("C:/Users/aswinram/Aswin's Data Science Portfolio/Credit Card Approval Prediction/models/cca_model.joblib")
 
